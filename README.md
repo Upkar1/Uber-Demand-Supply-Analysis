@@ -14,7 +14,7 @@ This report has the analysis for the Uber dataset. The report is basically conce
 
 6.Drop timestamp: The date and time at which the person was dropped to the destination.
 
-This will be our Approach:-
+This will be the approach:-
 
 1.Data Cleaning
 
